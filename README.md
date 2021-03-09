@@ -34,7 +34,12 @@ Typical results:
 =
 ___Fig3___:  
 <div align=center><img src="https://github.com/drzaxx/UAV3Dbeamforming/blob/main/fig3.jpg" width="490" height="368"/><br/>  
+  
 ___Fig5___:  
 <div align=center><img src="https://github.com/drzaxx/UAV3Dbeamforming/blob/main/fig5.jpg" width="490" height="368"/><br/>  
+  
 ___multiEve_comp___:  
 <div align=center><img src="https://github.com/drzaxx/UAV3Dbeamforming/blob/main/multiEve_comp.jpg" width="490" height="368"/><br/>  
+  
+  
+  
