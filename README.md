@@ -18,6 +18,7 @@ File Discription:
 **f_G.py**: to generate the corresponding beamforming vector  
 **fig3.m**: to plot Fig. 3 in the paper (2D scenario is similar, which is omitted)  
 **fig5.m**: to plot Fig. 5 in the paper
+**opt_multiEve.py and multiEve_comp.m**: for multiple Eves scenario  
 
 How to Run This:
 =
@@ -26,4 +27,8 @@ How to Run This:
 **Step3**: run f_G.py  
 **Step4**: run fig3.m  
 **Step5**: run fig5.m
+**Step5**: run opt_multiEve.py and multiEve_comp.m (for multiple Eves scenario)  
+
+Typical results:
+=
 
