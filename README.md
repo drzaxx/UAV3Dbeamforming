@@ -26,7 +26,7 @@ File Discription:
 How to Run This:
 =
 ****
-___You need to create directories to store files before running.___
+___You need to create directories to store files before running.___  
 **Step1**: run csi_gen.m, and data should be generated and placed into .\data\1~3  
 **Step2**: run opt_tf.py, you can switch data sets by changing X in path, e.g., './data/X/'，'./output/network_DSN/X/'  
 **Step3**: run f_G.py  
