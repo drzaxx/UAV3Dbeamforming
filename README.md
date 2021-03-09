@@ -49,5 +49,5 @@ ___multiEve_comp___:
 End:
 =
 ****
-* If you have any questions, please no hesitate to contact me via drzaxx@buaa.edu.cn.
+* If you have any questions, please don't hesitate to contact me via drzaxx@buaa.edu.cn.
   
