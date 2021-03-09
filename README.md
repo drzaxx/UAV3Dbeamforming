@@ -32,9 +32,9 @@ ___You need to create directories to store files before running.___
 
 Typical results:
 =
-___Fig3___:
-![11](fig3.jpg)
-___Fig5___:
-fig3.jpg
-___multiEve_comp___:
-
+___Fig3___:  
+![](fig3.jpg)
+___Fig5___:  
+![](fig5.jpg)
+___multiEve_comp___:  
+<div align=center><img src="https://github.com/drzaxx/UAV3Dbeamforming/blob/main/multiEve_comp.jpg" width="500" height="400" alt="微信小程序"/><br/>
