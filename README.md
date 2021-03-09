@@ -1,12 +1,15 @@
 # UAV_3Dbeamforming
+****
 This repository contains main codes for simulation of the paper "Deep Learning Driven 3D Robust Beamforming for Secure Communication of UAV Systems", which has been submitted to IEEE Wireless Communications Letters for possible publication.
 
 Requirements:
 =
+****
 Python == 3.7.0, Tensorflow-gpu == 1.14.0
 
 File Discription:
 =
+****
 **csi_gen.m**: to generate the training data sets  
 **Ray_channel.m**: complement for csi_gen.m  
 **Folder named data**: to store the training data sets  
@@ -22,6 +25,7 @@ File Discription:
 
 How to Run This:
 =
+****
 ___You need to create directories to store files before running.___
 **Step1**: run csi_gen.m, and data should be generated and placed into .\data\1~3  
 **Step2**: run opt_tf.py, you can switch data sets by changing X in path, e.g., './data/X/'，'./output/network_DSN/X/'  
@@ -32,6 +36,7 @@ ___You need to create directories to store files before running.___
 
 Typical results:
 =
+****
 ___Fig3___:  
 <div align=center><img src="https://github.com/drzaxx/UAV3Dbeamforming/blob/main/fig3.jpg" width="490" height="368"/><br/></div>
   
@@ -40,6 +45,9 @@ ___Fig5___:
   
 ___multiEve_comp___:  
 <div align=center><img src="https://github.com/drzaxx/UAV3Dbeamforming/blob/main/multiEve_comp.jpg" width="490" height="368"/><br/></div>
-  
-  
+
+End:
+=
+****
+* If you have any questions, please no hesitate to contact me via drzaxx@buaa.edu.cn.
   
