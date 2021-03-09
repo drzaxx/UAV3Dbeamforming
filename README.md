@@ -33,8 +33,8 @@ ___You need to create directories to store files before running.___
 Typical results:
 =
 ___Fig3___:  
-![](fig3.jpg)
+<div align=center><img src="https://github.com/drzaxx/UAV3Dbeamforming/blob/main/fig3.jpg" width="490" height="368"/><br/>
 ___Fig5___:  
-![](fig5.jpg)
+<div align=center><img src="https://github.com/drzaxx/UAV3Dbeamforming/blob/main/fig5.jpg" width="490" height="368"/><br/>
 ___multiEve_comp___:  
-<div align=center><img src="https://github.com/drzaxx/UAV3Dbeamforming/blob/main/multiEve_comp.jpg" width="500" height="400" alt="微信小程序"/><br/>
+<div align=center><img src="https://github.com/drzaxx/UAV3Dbeamforming/blob/main/multiEve_comp.jpg" width="490" height="368"/><br/>
