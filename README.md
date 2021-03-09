@@ -32,7 +32,7 @@ ___You need to create directories to store files before running.___
 **Step3**: run f_G.py  
 **Step4**: run fig3.m  
 **Step5**: run fig5.m  
-**Step5**: run opt_multiEve.py and multiEve_comp.m (for multiple Eves scenario)  
+**Step6**: run opt_multiEve.py and multiEve_comp.m (for multiple Eves scenario)  
 
 Typical results:
 =
