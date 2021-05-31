@@ -1,6 +1,6 @@
 # UAV_3Dbeamforming
 ****
-This repository contains main codes for simulation of the paper "Deep Learning Driven 3D Robust Beamforming for Secure Communication of UAV Systems", which has been submitted to IEEE Wireless Communications Letters for possible publication.
+This repository contains main codes for simulation of the paper "Deep Learning Driven 3D Robust Beamforming for Secure Communication of UAV Systems", which has been accepted by IEEE Wireless Communications Letters.
 
 Requirements:
 =
